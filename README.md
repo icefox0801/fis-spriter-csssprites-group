@@ -2,6 +2,8 @@
 
 基于FIS的csssprites，由[fis-spriter-csssprites](https://github.com/fex-team/fis-spriter-csssprites) 修改而来，具体说明请访问原项目了解
 
+由[mudoo](https://github.com/mudoo)的[fis-spriter-csssprites-group](https://github.com/mudoo/fis-spriter-csssprites-group)fork而来，在其基础上添加记录打包过的图片的功能
+
 ### 特性
 在官方基础上，添加支持图片分组合并、合并路径指定、rem支持
 
